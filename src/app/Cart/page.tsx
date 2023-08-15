@@ -1,10 +1,10 @@
 import React from 'react'
 import Image from 'next/image'
-import Cube from '.././../../public/Images/Moyu/21x21.webp'
+import Cube from '../../../Images/Moyu/21x21.webp'
 import { BsCart4 } from 'react-icons/bs'
 import { RiDeleteBin6Line } from 'react-icons/ri'
 
-export let ST = 1499.99
+let ST = 1499.99
 let DC = 20
 let TC = ST + DC
 

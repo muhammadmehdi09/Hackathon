@@ -39,7 +39,7 @@ const Cart = () => {
           </div>
         </section>
       </div>
-      <div className='col-span-1 bg-slate-500 h-[600px] lg:p-7 rounded-lg text-slate-100 p-4'>
+      <div className='col-span-1 bg-slate-500 h-[430px]  lg:p-7 rounded-lg text-slate-100 p-4'>
         <h1 className='text-center font-bold text-2xl'>Order Summary</h1>
         <div className='divider'></div>
         <div className='flex items-center justify-between my-2'>
